@@ -1,6 +1,10 @@
 # my-magento2-links
 My list of useful magento 2 links
 
+## Learning
+
+- [Introduction to Magento 2 - No More MVC](https://alanstorm.com/magento_2_mvvm_mvc/)
+
 ## Docker
 
 - https://github.com/JeroenBoersma/docker-compose-development
